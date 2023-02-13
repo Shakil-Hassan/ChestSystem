@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7e679fb47e962624786ab0474744f013
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jungle Adventurer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b19f352c5f0bbf848ab311865db20339, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
